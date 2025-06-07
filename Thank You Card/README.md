@@ -13,6 +13,9 @@ The design is clean and warm, meant to show appreciation in a friendly and profe
 ## Goal
 To create a card that’s versatile for many uses — from customer thank-you notes to gifting add-ons.
 
+## Preview
+![Thank You Card](./thank_you.png)
+
 
 > I made this to explore minimalist design while still keeping the message heartfelt.
 
