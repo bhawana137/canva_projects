@@ -15,7 +15,7 @@ The video includes festive colors, animated text, and traditional Rakhi decorati
 To create a quick, eye-catching Rakhi greeting that can be used by brands like **Giftmandu** for promotion.
 
 ## Preview
-![Happy Rakhi Card](./happyrakhi.png)
+![Happy Rakhi Card](./happyrakhi.mp4)
 
 
 
