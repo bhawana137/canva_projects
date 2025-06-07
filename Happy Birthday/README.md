@@ -13,8 +13,6 @@ I used playful fonts and bright colors to make it look joyful and festive.
 ##  Goal
 To create a cheerful birthday message that looks good both as a print card and as a digital post.
 
-## Message Example
-*"Wishing you joy, laughter, and lots of cake!"*
 
 ## 📸 Preview
 ![Birthday Card](./birthday_card.png)
