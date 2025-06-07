@@ -3,7 +3,7 @@
 Hi!  I'm a student learning design and front-end development.  
 These are some of my creative greeting card projects made using **Canva**!
 
-I created these to explore layouts, color matching, and design thinking — and I'm sharing them here as part of my design portfolio and internship application for **Giftmandu**.
+I created these to explore layouts, color matching, and design thinking and I'm sharing them here as part of my design portfolio and internship application for **Giftmandu**.
 
 ---
 
