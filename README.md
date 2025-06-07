@@ -11,7 +11,7 @@ I created these to explore layouts, color matching, and design thinking — and 
 
 ### Father’s Day Card
 A warm card to celebrate fathers and father figures.  
-![Father’s Day Card](./fathers_day.png)
+![Father’s Day Card](./father's_day.png)
 
 ---
 
