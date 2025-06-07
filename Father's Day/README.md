@@ -14,5 +14,9 @@ The design features a calm and emotional theme, with a message to appreciate all
 *"Thank you for being our first hero and forever guide."*  
 Call to Action: **Celebrate Father's Day at giftmandu.com**
 
+## Preview
+![Father’s Day Card](./father's_day.png)
+
+
 > This project helped me explore color combinations, layout, and message delivery for digital branding.
 
