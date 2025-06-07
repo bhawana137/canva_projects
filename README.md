@@ -40,4 +40,5 @@ Designed as a short 5-second animation for Raksha Bandhan.
 
 ##  Why I Made This
 
-These projects were made with creativity and care — I’m using them to apply for the **Giftmandu internship**, and to grow my design portfolio. Thanks for checking them out! 
+These projects were made with creativity and care .
+I’m using them to apply for the **Giftmandu internship**, and to grow my design portfolio. Thanks for checking them out! 
