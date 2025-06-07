@@ -2,7 +2,7 @@
 
 **Project Type:** Greeting Card  
 **Tool Used:** Canva  
-**Project Date:** April 2025
+**Project Date:** June 2025
 
 ## About the Project
 This is a simple and elegant **Thank You card** I designed using Canva.  
