@@ -11,29 +11,25 @@ I created these to explore layouts, color matching, and design thinking — and 
 
 ### Father’s Day Card
 A warm card to celebrate fathers and father figures.  
-![Father’s Day Card](./father's_day.png)
 
 ---
 
 ### Happy Birthday Card
 A cheerful card with a bright birthday message.  
-![Birthday Card](./birthday_card.png)
 
 ---
 
 ### Thank You Card
 Simple and elegant — made to express gratitude.  
-![Thank You Card](./thank_you.png)
 
 ---
 
 ###  Rakhi Greeting (Video Format)
 Designed as a short 5-second animation for Raksha Bandhan.  
- [▶️ Click here to watch the Rakhi video](./rakhi_design.mp4)
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Canva** – For all design work
 - **GitHub** – To organize and showcase my work
