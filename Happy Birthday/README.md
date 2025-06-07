@@ -16,6 +16,8 @@ To create a cheerful birthday message that looks good both as a print card and a
 ## Message Example
 *"Wishing you joy, laughter, and lots of cake!"*
 
+## 📸 Preview
+![Birthday Card](./birthday_card.png)
 
 > I created this to practice layout, text placement, and festive design for social media and branding.
 
